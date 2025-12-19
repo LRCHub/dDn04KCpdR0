@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "猟奇的なキスを私にして",
+  "base_artist": "ゲスの極み乙女",
+  "createdAt": "2025-12-19T06:57:59.446784Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "猟奇的なキスを私にして",
+      "artist": "Gesu no Kiwami Otome",
+      "has_synced": true,
+      "path": "select/01_猟奇的なキスを私にして_Gesu_no_Kiwami_Otome.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "猟奇的なキスを私にして - ryoukiteki na kiss wo watashi ni shite",
+      "artist": "gesunokiwamiotome",
+      "has_synced": true,
+      "path": "select/02_猟奇的なキスを私にして_-_ryoukiteki_na_kiss_wo_watashi_ni_shite_gesunokiwamiotome.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "猟奇的なキスを私にして",
+      "artist": "ゲスの極み乙女",
+      "has_synced": true,
+      "path": "select/03_猟奇的なキスを私にして_ゲスの極み乙女.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "猟奇的なキスを私にして",
+      "artist": "ゲスの極み乙女。",
+      "has_synced": false,
+      "path": "select/pl_01_猟奇的なキスを私にして_ゲスの極み乙女。.txt"
+    }
+  ]
+}
